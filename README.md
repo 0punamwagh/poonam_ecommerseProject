@@ -19,7 +19,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 
 ## Demo
 
-This application is deployed on Vercel Please check it out :smile: [here](https://mern-store-gold.vercel.app).
+
 
 See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
 
