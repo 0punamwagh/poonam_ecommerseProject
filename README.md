@@ -21,7 +21,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 
 
 
-See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
+See admin dashboard [demo](http://13.53.243.5/contact)
 
 ## Docker Guide
 
